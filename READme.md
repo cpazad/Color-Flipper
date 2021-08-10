@@ -17,7 +17,8 @@ Also make changes on the text
 - Create New function to get reandom number
 
 
-
+![Prject Image](color_flippers.png)
+[Project Live link](https://cpazad.github.io/Color-Flipper/)
 - - -
 *Md. Azadur Rahman* <br>
 [Fiverr Link](https://www.fiverr.com/cpazad)<br>
